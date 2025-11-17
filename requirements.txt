@@ -6,3 +6,4 @@ black
 onnxruntime
 fastapi
 uvicorn
+#https://www.youtube.com/watch?v=dbC5X2U-aeQ
